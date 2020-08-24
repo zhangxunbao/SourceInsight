@@ -1,2 +1,2 @@
 # SourceInsight
-this is a hello project
+this is a SourceInsight test project
